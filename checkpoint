@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\PythonET2\\snoh_ET_v3_training_alexnet\\pyET2-car-0.001-alexnetv2-8-epochs.model"
+all_model_checkpoint_paths: "C:\\PythonET2\\snoh_ET_v3_training_alexnet\\pyET2-car-0.001-alexnetv2-8-epochs.model"
